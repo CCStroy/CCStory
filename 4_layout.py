@@ -35,7 +35,7 @@ from template import ratio_template, box_template, ratio_prompt, box_prompt
 
 
 OPENAI_API_BASE = "https://api.openai.com/v1/" # NOTE: [User specified]
-OPENAI_API_KEY = "sk-proj-nWH5H31hGoym73o22yesT3BlbkFJZzUDBTOAyr0XU0cUmMOz"
+OPENAI_API_KEY = "sk-"
 OPENAI_MODEL ='gpt-4' 
 
 def show_report(report_list: list=['> Report']):
