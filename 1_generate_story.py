@@ -11,7 +11,7 @@ from template import story_template, scene_template, character_template, backgro
 # private key
 # ==========
 OPENAI_API_BASE = "https://api.openai.com/v1/" # NOTE: [User specified]
-OPENAI_API_KEY = "sk-proj-wWWKcd3gqGF1Mcr7YP7mT3BlbkFJ1r7hfMCQhKZPmF4Oheyf"
+OPENAI_API_KEY = "sk-"
 OPENAI_MODEL ='gpt-4' #'gpt-3.5-turbo' # 'gpt-4'
 
     
