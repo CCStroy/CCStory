@@ -53,8 +53,9 @@ Data Notice: Training datasets and specific character weights are private. This 
   year={2026}
 }
 ```
-```bibtex
+
 % Referenced Frameworks
+```bibtex
 @article{shao2023autostory,
   title={AutoStory: Generating Multi-frame Consistent Storytelling with Text-to-Image Models},
   author={Shao, Wenqi and others},
@@ -70,3 +71,4 @@ Data Notice: Training datasets and specific character weights are private. This 
   year={2024}
 }
 ```
+
