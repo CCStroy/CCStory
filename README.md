@@ -1,4 +1,4 @@
-# CCStory: Context-Consistent Storytelling with Controlled Character Synthesis
+# CCStory: Consistent Character Visualization in Storytelling Across Domains
 This repository contains the official implementation of the paper "CCStory", currently submitted to The Visual Computer.
 
 ## 📄 Publication
@@ -71,4 +71,5 @@ Data Notice: Training datasets and specific character weights are private. This 
   year={2024}
 }
 ```
+
 
