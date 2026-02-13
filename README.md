@@ -1,8 +1,5 @@
-# CCStory: Consistent Character Visualization in Storytelling Across Domains
-This repository contains the official implementation of the paper "CCStory", currently submitted to The Visual Computer.
-
-## 📄 Publication
-Journal: The Visual Computer
+# CCStory: A Character-Consistent Story Visualization Model for Various Domains Without Fine-tuning
+This repository contains the official implementation of the paper "CCStory".
 
 Key Focus: Character consistency across sequential frames and precise layout-to-image synthesis. (especially Story Visualization Model)
 
@@ -71,5 +68,6 @@ Data Notice: Training datasets and specific character weights are private. This 
   year={2024}
 }
 ```
+
 
 
