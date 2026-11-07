@@ -41,7 +41,7 @@ Code DOI: [![DOI](https://zenodo.org/badge/1012396713.svg)](https://doi.org/10.5
 Data Notice: Training datasets and specific character weights are private. This repository includes the inference code and the core architectural implementation.
 
 ## 📚 References
-% CCStory (Submitted to The Visual Computer)
+CCStory 
 ```bibtex
 @article{ccstory2026,
   title={CCStory: Context-Consistent Storytelling with Controlled Character Synthesis},
