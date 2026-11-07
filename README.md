@@ -51,7 +51,7 @@ CCStory
 }
 ```
 
-% Referenced Frameworks
+Referenced Frameworks
 ```bibtex
 @article{shao2023autostory,
   title={AutoStory: Generating Multi-frame Consistent Storytelling with Text-to-Image Models},
